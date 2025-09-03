@@ -40,15 +40,15 @@
 
 ## 📈 GitHub Stats  
 
-## 📈 GitHub Stats  
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OM25012007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OM25012007&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OM25012007&theme=radical&hide_border=false)](https://git.io/streak-stats)  
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OM25012007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OM25012007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=OM25012007&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
