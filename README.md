@@ -46,9 +46,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OM25012007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=OM25012007&label=Profile%20Views&color=blue&style=flat)
+
 
 ---
 
