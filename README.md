@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
 - 🧠 Passionate about **Deep Learning, Computer Vision, and Generative AI (RAG)**  
-- 💻 Skilled in **Python, C, C++, Scikit-learn, TensorFlow, PyTorch, and RAG pipelines**  
+- 💻 interested in  **Python, C, C++, Scikit-learn, TensorFlow, PyTorch, and RAG pipelines**  
 - 📊 Love building models, visualizations, and innovative AI-powered applications  
 - 📚 In free time: I enjoy reading **self-help & non-fiction books**  
 - 🏐 Sports spirit: Love playing **Volleyball**  
