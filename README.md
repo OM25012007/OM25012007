@@ -62,6 +62,6 @@
 
 ---
 
-⚡ *“AI won’t replace humans, but humans with AI will replace those without.”*  
+⚡ *“Deep learning is like teenage love — it feels magical, but no one really knows how it works.”*  
 
 *![Profile Views](https://komarev.com/ghpvc/?username=OM25012007&label=Profile%20Views&color=blue&style=flat)*  
