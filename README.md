@@ -57,7 +57,8 @@
 ---
 
 ## 📫 Let's Connect  
-- 📧 Email: *omvdangi2525@gmail.com*  
+- 📧 Email: *omvdangi2525@gmail.com*
+-  kaggel profile : *https://www.kaggle.com/omdangi07*
   
 
 ---
