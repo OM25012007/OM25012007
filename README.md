@@ -1,18 +1,18 @@
 # 👋 Hi, I'm OM DANGI  
 
-🌟 **AI/ML Enthusiast | B.Tech in AIML | Lifelong Learner**  
+🌟 **AI/ML Enthusiast | B.Tech in AIML | Lifelong Learner**
 
-💡 Exploring the world of Artificial Intelligence & Machine Learning, with a special focus on building impactful projects that combine theory with real-world applications.  
+💡 Exploring the world of Artificial Intelligence & Machine Learning, with a focus on building impactful projects that combine theory with real-world applications.  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
-- 🧠 Passionate about **Deep Learning, Computer Vision, and Generative AI (RAG)**  
-- 💻 interested in  **Python, C, C++, Scikit-learn, TensorFlow, PyTorch, and RAG pipelines**  
-- 📊 Love building models, visualizations, and innovative AI-powered applications  
-- 📚 In free time: I enjoy reading **self-help & non-fiction books**  
-- 🏐 Sports spirit: Love playing **Volleyball and chess**  
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** at Vishwakarma University, Pune  
+- 🧠 Interested in **Deep Learning, Computer Vision, and Generative AI (RAG)**  
+- 💻 Skilled in **Python, C, C++, TensorFlow, PyTorch, and Scikit-learn**  
+- 📊 Enjoys building models, visualizations, and AI-driven applications  
+- 📚 Loves reading **self-help and non-fiction** books  
+- 🏐 Passionate about **Volleyball** and **Chess**
 
 ---
 
@@ -32,37 +32,26 @@
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>  
-
----
-
-## 🌟 Featured Projects  
-
-🔬 [**Myopia Detection using ResNet50**](https://github.com/OM25012007/Myopia_detection_using_RESNET50)  
-> A deep learning project leveraging **ResNet50** for detecting myopia from medical images, showcasing the power of transfer learning in healthcare.  
-
-📊 [**FANDANGO Data Visualization**](https://github.com/OM25012007/FANDANGO_DATA_VISUALISATION)  
-> A data visualization project exploring and analyzing datasets to uncover meaningful insights through advanced plotting and analysis.  
+</p>
 
 ---
 
 ## 📈 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OM25012007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omdangi2007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OM25012007&theme=radical&hide_border=false)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=omdangi2007&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OM25012007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omdangi2007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 📫 Let's Connect  
-- 📧 Email: *omvdangi2525@gmail.com*
--  kaggel profile : *https://www.kaggle.com/omdangi07*
-  
+- 📧 Email: *omvdangi2525@gmail.com*  
+- 🧩 Kaggle: [kaggle.com/omdangi07](https://www.kaggle.com/omdangi07)
 
 ---
 
 ⚡ *“Deep learning is like teenage love — it feels magical, but no one really knows how it works.”*  
 
-*![Profile Views](https://komarev.com/ghpvc/?username=OM25012007&label=Profile%20Views&color=blue&style=flat)*  
+![Profile Views](https://komarev.com/ghpvc/?username=omdangi2007&label=Profile%20Views&color=blue&style=flat)
